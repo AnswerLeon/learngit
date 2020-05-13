@@ -1,0 +1,7 @@
+我的分身小伙来了哦
+git branch
+git branch -d <name>
+git branch -D <name> 强制
+git merge --no-ff -m "描述" <分支名字>
+git log
+git log --graph --pretty=oneline --abbrev-commit
